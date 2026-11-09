@@ -12,7 +12,7 @@ Implementación integral de un entorno de **Defensa Activa y Deception Technolog
 ## 🏗️ Topología y Arquitectura del Laboratorio
 El entorno fue desplegado en un hipervisor local utilizando **VMware Workstation**, aislado mediante una red privada *Host-Only*:
 
-![Arquitectura del Laboratorio](assets/watermarked_img_4564470758393515102.jpg)
+![Arquitectura del Laboratorio](Gemini_Generated_Image_xttj81xttj81xttj.jfif)
 
 * **Ubuntu Server (Nodo Defensivo / Honeypot):** `192.168.209.130`
   * **Capa 3 y 4 (Red / Transporte):** Implementación de reglas perimetrales con `iptables` y persistencia con `netfilter-persistent` para bloqueo de IPs y redirección transparente de puertos (*Port Forwarding*).
