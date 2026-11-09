@@ -5,7 +5,7 @@ Implementación integral de un entorno de **Defensa Activa y Deception Technolog
 ---
 
 ## 🎥 Demostración del Laboratorio
-*[Inserta aquí tu video o GIF, por ejemplo: `![Demo](Secuencia 01_1.gif)`]*
+![Demo](Secuencia 01_1.gif)
 
 ---
 
